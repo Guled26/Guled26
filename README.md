@@ -1,4 +1,4 @@
-<h1>Hi, I'm Guled, an <a https://www.linkedin.com/in/guled-dualeh-a67325254/>
+<h1>Hi, I'm Guled, an IT Peofessional! <a https://www.linkedin.com/in/guled-dualeh-a67325254/>
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
